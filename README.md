@@ -1,6 +1,6 @@
 # nineti
 
-A App for readind energy and displaying it
+An App for readind energy and displaying it
 
 ## Figma link
 https://www.figma.com/design/9kEc5IwkmyUpMxCpTKfKrU/Untitled?node-id=0-1&t=YKn7qcQaWtOaDgSf-1
